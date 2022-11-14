@@ -1,0 +1,72 @@
+body {
+    background-color: white;
+    
+}
+
+
+
+td{
+    
+    padding: 14px;
+    border-radius: 7px 7px;
+    text-align: center;
+}
+
+
+.yellow {
+    background-color: yellow;
+    border: 1px solid black;
+
+}
+
+.yellow:hover {
+    background-color: white;
+
+    
+}
+
+.purple {
+    background-color: rgb(134, 89, 223);
+    border: 1px solid black;
+
+}
+
+.beige {
+    background-color: beige;
+    border: 1px solid black;
+}
+
+.green {
+    background-color: green;
+    border: 1px solid black;
+}
+
+.orange {
+    background-color: orange;
+    border: 1px solid black;
+}
+
+.pink {
+    background-color: pink;
+    border: 1px solid black;
+}
+
+.violet {
+    background-color: violet;
+    border: 1px solid black;
+}
+
+.golden {
+    background-color: goldenrod;
+    border: 1px solid black;
+}
+
+.sky {
+    background-color: skyblue;
+    border: 1px solid black;
+}
+
+.greendark {
+    background-color: rgb(17, 154, 136);
+    border: 1px solid black;
+}
