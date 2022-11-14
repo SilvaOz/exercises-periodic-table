@@ -1,22 +1,30 @@
 body {
     background-color: white;
-    
+
 }
 
 
 
-td{
-    
+td {
+
     padding: 12px;
     border-radius: 4px 4px;
     text-align: center;
 }
 
+#empty:hover {
+    transform: none;
+
+}
+
+#empty2:hover {
+    transform: none;
+}
 
 .yellow {
     background-color: yellow;
     border: 1px solid black;
-    
+
 }
 
 .yellow:hover {
@@ -30,22 +38,24 @@ td{
 
 }
 
-.purple:hover{
+.purple:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(134, 89, 223, 0.918);
 }
+
 .yellow:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(255, 255, 0, 0.9);
 }
+
 .beige {
     background-color: beige;
     border: 1px solid black;
@@ -55,19 +65,21 @@ td{
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(245, 245, 220, 0.913);
 }
+
 .green {
     background-color: green;
     border: 1px solid black;
 }
-.green:hover{
+
+.green:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(0, 128, 0, 0.938);
 }
@@ -77,37 +89,40 @@ td{
     border: 1px solid black;
 }
 
-.orange:hover{
+.orange:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(255, 166, 0, 0.928);
 }
+
 .pink {
     background-color: pink;
     border: 1px solid black;
 }
-.pink:hover{
+
+.pink:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(255, 192, 203, 0.945);
-    
+
 }
 
 .violet {
     background-color: violet;
     border: 1px solid black;
 }
-.violet:hover{
+
+.violet:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(238, 130, 238, 0.923);
 }
@@ -117,23 +132,25 @@ td{
     border: 1px solid black;
 }
 
-.golden:hover{
+.golden:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(218, 165, 32, 0.936);
 }
+
 .sky {
     background-color: skyblue;
     border: 1px solid black;
 }
-.sky:hover{
+
+.sky:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(135, 207, 235, 0.934);
 }
@@ -142,11 +159,12 @@ td{
     background-color: rgb(17, 154, 136);
     border: 1px solid black;
 }
-.greendark:hover{
+
+.greendark:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
     -ms-transform: scale(2, 2);
-    transform: scale(2,2);
+    transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(17, 154, 136, 0.914);
 }
