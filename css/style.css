@@ -16,7 +16,7 @@ td{
 .yellow {
     background-color: yellow;
     border: 1px solid black;
-
+    
 }
 
 .yellow:hover {
@@ -30,6 +30,14 @@ td{
 
 }
 
+.purple:hover{
+    border-color: black;
+    -webkit-transform: scale(2, 2);
+    -ms-transform: scale(2, 2);
+    transform: scale(2,2);
+    z-index: 1;
+    background-color: rgba(134, 89, 223, 0.918);
+}
 .yellow:hover {
     border-color: black;
     -webkit-transform: scale(2, 2);
