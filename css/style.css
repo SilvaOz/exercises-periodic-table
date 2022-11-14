@@ -3,8 +3,6 @@ body {
 
 }
 
-
-
 td {
 
     padding: 12px;
@@ -14,7 +12,6 @@ td {
 
 #empty:hover {
     transform: none;
-
 }
 
 #empty2:hover {
@@ -24,18 +21,15 @@ td {
 .yellow {
     background-color: yellow;
     border: 1px solid black;
-
 }
 
 .yellow:hover {
     background-color: red;
-
 }
 
 .purple {
     background-color: rgb(134, 89, 223);
     border: 1px solid black;
-
 }
 
 .purple:hover {
@@ -110,7 +104,6 @@ td {
     transform: scale(2, 2);
     z-index: 1;
     background-color: rgba(255, 192, 203, 0.945);
-
 }
 
 .violet {
